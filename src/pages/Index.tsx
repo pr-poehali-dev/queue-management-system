@@ -9,7 +9,7 @@ const Index = () => {
       <div className="max-w-md mx-auto space-y-4">
         <div className="text-center mb-6">
           <h1 className="text-2xl font-bold text-gray-800 mb-2">
-            Электронная очередь
+            Ваша очередь
           </h1>
           <p className="text-gray-600">Ваша позиция в очереди</p>
         </div>
