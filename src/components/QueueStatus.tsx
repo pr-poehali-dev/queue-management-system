@@ -7,7 +7,7 @@ const QueueStatus = () => {
       <CardContent className="p-6 text-center">
         <div className="space-y-4">
           <div className="relative">
-            <div className="text-6xl font-bold text-purple-600 animate-pulse">
+            <div className="text-6xl font-bold text-purple-600 animate-pulse py-[19px]">
               3
             </div>
             <Badge
