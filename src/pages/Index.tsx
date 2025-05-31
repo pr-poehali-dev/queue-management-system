@@ -9,7 +9,7 @@ const Index = () => {
       <div className="max-w-md mx-auto space-y-4">
         <div className="text-center mb-6">
           <img
-            src="https://cdn.poehali.dev/files/823c48a8-ae28-4170-a7cf-37fee1fa5598.png"
+            src="https://cdn.poehali.dev/files/02005156-4715-4877-a165-e783a09a2ea3.png"
             alt="Поехали! логотип"
             className="w-16 h-16 mx-auto mb-4"
           />
